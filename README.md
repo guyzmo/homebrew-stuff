@@ -1,9 +1,19 @@
-# Guyzmo Zmo
+# Guyzmo's homebrew tap
 
-## How do I install these formulae?
-`brew install guyzmo/zmo/<formula>`
+You'll find my own formulas, starting with:
 
-Or `brew tap guyzmo/zmo` and then `brew install <formula>`.
+* glabels-qt
+
+`brew install guyzmo/stuff/glabelts-qt`
+
+## To install a formula from this tap:
+
+
+`brew install guyzmo/stuff/<formula>`
+
+Or `brew tap guyzmo/stuff` and then `brew install <formula>`.
+
 
 ## Documentation
+
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
